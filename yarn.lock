@@ -7931,9 +7931,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitest/coverage-istanbul@npm:0.30.0":
-  version: 0.30.0
-  resolution: "@vitest/coverage-istanbul@npm:0.30.0"
+"@vitest/coverage-istanbul@npm:0.30.1":
+  version: 0.30.1
+  resolution: "@vitest/coverage-istanbul@npm:0.30.1"
   dependencies:
     istanbul-lib-coverage: "npm:^3.2.0"
     istanbul-lib-instrument: "npm:^5.2.1"
@@ -7943,7 +7943,7 @@ __metadata:
     test-exclude: "npm:^6.0.0"
   peerDependencies:
     vitest: ">=0.30.0 <1"
-  checksum: c034a9fe7aab7bbc8d2e9d5606674a39d138b7ea352663c10bddd4c2c65198981b3f317f03ac23432ce04a38b70f256bb1eb7b1869af7db557255e698fb63a14
+  checksum: 17d431e795cd4d08a83b8a2e8621b538036725632c09c64f3812ac17fb04a658caa53925d578086cc2cdc66afea0cd52738af4e2eed4a160fd11dd2d4c7c25a0
   languageName: node
   linkType: hard
 
@@ -8141,7 +8141,7 @@ __metadata:
     "@types/react": "npm:18.0.34"
     "@types/react-dom": "npm:18.0.11"
     "@vitejs/plugin-react": "npm:3.1.0"
-    "@vitest/coverage-istanbul": "npm:0.30.0"
+    "@vitest/coverage-istanbul": "npm:0.30.1"
     "@vitest/ui": "npm:0.30.0"
     "@your-org/eslint-config-bases": "workspace:^"
     "@your-org/ts-utils": "workspace:^"
@@ -8176,7 +8176,7 @@ __metadata:
     "@prisma/client": "npm:4.12.0"
     "@soluble/dsn-parser": "npm:1.7.6"
     "@types/node": "npm:18.15.11"
-    "@vitest/coverage-istanbul": "npm:0.30.0"
+    "@vitest/coverage-istanbul": "npm:0.30.1"
     "@vitest/ui": "npm:0.30.0"
     "@your-org/eslint-config-bases": "workspace:^"
     camelcase: "npm:7.0.1"
@@ -8267,7 +8267,7 @@ __metadata:
     "@size-limit/file": "npm:8.2.4"
     "@types/jest": "npm:29.5.0"
     "@types/node": "npm:18.15.11"
-    "@vitest/coverage-istanbul": "npm:0.30.0"
+    "@vitest/coverage-istanbul": "npm:0.30.1"
     "@vitest/ui": "npm:0.30.0"
     "@your-org/eslint-config-bases": "workspace:^"
     cross-env: "npm:7.0.3"
@@ -18002,7 +18002,7 @@ __metadata:
     "@types/react-test-renderer": "npm:18.0.0"
     "@types/testing-library__jest-dom": "npm:5.14.5"
     "@vitejs/plugin-react": "npm:3.1.0"
-    "@vitest/coverage-istanbul": "npm:0.30.0"
+    "@vitest/coverage-istanbul": "npm:0.30.1"
     "@vitest/ui": "npm:0.30.0"
     "@your-org/api-gateway": "workspace:^"
     "@your-org/common-i18n": "workspace:^"
@@ -24087,7 +24087,7 @@ __metadata:
     "@types/react": "npm:18.0.34"
     "@types/react-dom": "npm:18.0.11"
     "@vitejs/plugin-react": "npm:3.1.0"
-    "@vitest/coverage-istanbul": "npm:0.30.0"
+    "@vitest/coverage-istanbul": "npm:0.30.1"
     "@vitest/ui": "npm:0.30.0"
     "@your-org/common-i18n": "workspace:^"
     "@your-org/core-lib": "workspace:^"
