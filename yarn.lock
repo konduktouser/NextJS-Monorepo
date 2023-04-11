@@ -15057,10 +15057,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"isbot@npm:3.6.7, isbot@npm:latest":
+"isbot@npm:3.6.7":
   version: 3.6.7
   resolution: "isbot@npm:3.6.7"
   checksum: ea5078c37072b7a826855ebdf1f0fcffc3d9300aa52bfd1a7520731970d699ccec61a6a66239f5721d0f2bd35c8832ee7f254aa9ffbf3a8069c81875866351e6
+  languageName: node
+  linkType: hard
+
+"isbot@npm:latest":
+  version: 3.6.8
+  resolution: "isbot@npm:3.6.8"
+  checksum: acfe487031204297c0033e3cdeffbf077c7ec6c955f5d653d9b6a48c6cfd736761f08c2518f9b78b2964d58952b6edb29fc1a33a533a47ea4985f2a92aeffd65
   languageName: node
   linkType: hard
 
