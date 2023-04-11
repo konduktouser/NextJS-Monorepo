@@ -6,19 +6,9 @@
 version: 2
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/apps/nextjs-app" # Location of package manifests
+    directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
-    target-branch: "main"
+      interval: "live"
     labels: 
       - "nextjs"
-      - "npm"
-      
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/apps/remix-app" # Location of package manifests
-    schedule:
-      interval: "weekly"
-    target-branch: "main"
-    labels: 
-      - "remix-app"
       - "npm"
