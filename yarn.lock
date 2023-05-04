@@ -7990,18 +7990,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitest/ui@npm:0.30.0":
-  version: 0.30.0
-  resolution: "@vitest/ui@npm:0.30.0"
+"@vitest/ui@npm:0.31.0":
+  version: 0.31.0
+  resolution: "@vitest/ui@npm:0.31.0"
   dependencies:
-    "@vitest/utils": "npm:0.30.0"
+    "@vitest/utils": "npm:0.31.0"
     fast-glob: "npm:^3.2.12"
     fflate: "npm:^0.7.4"
     flatted: "npm:^3.2.7"
     pathe: "npm:^1.1.0"
     picocolors: "npm:^1.0.0"
     sirv: "npm:^2.0.2"
-  checksum: 49c0cc3b022f716326995404b72ffb77ea2faf76951e4ed46095d4ac76845411f5817c82a9098684a1c6a08553a3bec24873555a2c37e52c77f3c92e1095a80f
+  peerDependencies:
+    vitest: ">=0.30.1 <1"
+  checksum: 44558cbab593bfef6e4fbacc09c3ed88caddbb4d04b91222ec1853fa4ebeeca534e01efbe8ead00974a7a3a1d8aee23fe80ae426bdbcdf4593cc910f827a3533
   languageName: node
   linkType: hard
 
@@ -8013,6 +8015,17 @@ __metadata:
     loupe: "npm:^2.3.6"
     pretty-format: "npm:^27.5.1"
   checksum: cfd94e5b03c899efd73c7388d3532537df456d4a9bf8ff7a0ada9c893840e9256f56224395729c1b5514b53e15315027e018ef2a47a39c5bfee746a9d6dd77c0
+  languageName: node
+  linkType: hard
+
+"@vitest/utils@npm:0.31.0":
+  version: 0.31.0
+  resolution: "@vitest/utils@npm:0.31.0"
+  dependencies:
+    concordance: "npm:^5.0.4"
+    loupe: "npm:^2.3.6"
+    pretty-format: "npm:^27.5.1"
+  checksum: 3a9a48496b5d1e7eec30e9091aa2e1ae488d8c54d0d28ff77cdb175ed96c3897d655e66b980c8cdadc95405ed435aff606aa16344a8aae5336343715949a42de
   languageName: node
   linkType: hard
 
@@ -8142,7 +8155,7 @@ __metadata:
     "@types/react-dom": "npm:18.0.11"
     "@vitejs/plugin-react": "npm:3.1.0"
     "@vitest/coverage-istanbul": "npm:0.30.0"
-    "@vitest/ui": "npm:0.30.0"
+    "@vitest/ui": "npm:0.31.0"
     "@your-org/eslint-config-bases": "workspace:^"
     "@your-org/ts-utils": "workspace:^"
     cross-env: "npm:7.0.3"
@@ -8177,7 +8190,7 @@ __metadata:
     "@soluble/dsn-parser": "npm:1.7.6"
     "@types/node": "npm:18.15.11"
     "@vitest/coverage-istanbul": "npm:0.30.0"
-    "@vitest/ui": "npm:0.30.0"
+    "@vitest/ui": "npm:0.31.0"
     "@your-org/eslint-config-bases": "workspace:^"
     camelcase: "npm:7.0.1"
     cross-env: "npm:7.0.3"
@@ -8268,7 +8281,7 @@ __metadata:
     "@types/jest": "npm:29.5.0"
     "@types/node": "npm:18.15.11"
     "@vitest/coverage-istanbul": "npm:0.30.0"
-    "@vitest/ui": "npm:0.30.0"
+    "@vitest/ui": "npm:0.31.0"
     "@your-org/eslint-config-bases": "workspace:^"
     cross-env: "npm:7.0.3"
     es-check: "npm:7.1.1"
@@ -18003,7 +18016,7 @@ __metadata:
     "@types/testing-library__jest-dom": "npm:5.14.5"
     "@vitejs/plugin-react": "npm:3.1.0"
     "@vitest/coverage-istanbul": "npm:0.30.0"
-    "@vitest/ui": "npm:0.30.0"
+    "@vitest/ui": "npm:0.31.0"
     "@your-org/api-gateway": "workspace:^"
     "@your-org/common-i18n": "workspace:^"
     "@your-org/core-lib": "workspace:^"
@@ -24088,7 +24101,7 @@ __metadata:
     "@types/react-dom": "npm:18.0.11"
     "@vitejs/plugin-react": "npm:3.1.0"
     "@vitest/coverage-istanbul": "npm:0.30.0"
-    "@vitest/ui": "npm:0.30.0"
+    "@vitest/ui": "npm:0.31.0"
     "@your-org/common-i18n": "workspace:^"
     "@your-org/core-lib": "workspace:^"
     "@your-org/eslint-config-bases": "workspace:^"
