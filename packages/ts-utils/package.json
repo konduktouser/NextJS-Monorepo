@@ -41,7 +41,7 @@
     "@types/jest": "29.5.0",
     "@types/node": "18.15.11",
     "@vitest/coverage-istanbul": "0.30.0",
-    "@vitest/ui": "0.30.0",
+    "@vitest/ui": "0.31.2",
     "@your-org/eslint-config-bases": "workspace:^",
     "cross-env": "7.0.3",
     "es-check": "7.1.1",
